@@ -38,10 +38,10 @@ browser = webdriver.Chrome("C:/Users/milos/Downloads/chromedriver.exe",options=c
 # browser.get('https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent%27')
 # time.sleep(3)
 # browser.find_element_by_xpath('//*[@id="openid-buttons"]/button[1]').click()
-# browser.find_element_by_xpath('//input[@type="email"]').send_keys('milebanjano@gmail.com')
+# browser.find_element_by_xpath('//input[@type="email"]').send_keys('username')
 # browser.find_element_by_xpath('//*[@id="identifierNext"]').click()
 # time.sleep(3)
-# browser.find_element_by_xpath('//input[@type="password"]').send_keys('glorfindel')
+# browser.find_element_by_xpath('//input[@type="password"]').send_keys('password')
 # browser.find_element_by_xpath('//*[@id="passwordNext"]').click()
 # time.sleep(3)
 
